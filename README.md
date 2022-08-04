@@ -1,8 +1,10 @@
-# Code Conventional
+# Code Style Guideline
 
-> Code style guild line for Ascend Group.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+</p>
 
-- [Code Conventional](#code-conventional)
+- [Code Style Guideline](#code-style-guideline)
   - [Front end](#front-end)
     - [Get started](#get-started)
       - [For VSCode CLI](#for-vscode-cli)
