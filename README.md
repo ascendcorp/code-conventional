@@ -9,6 +9,7 @@
     - [Get started](#get-started)
       - [For VSCode CLI](#for-vscode-cli)
       - [How to make VSCode format changed files on save](#how-to-make-vscode-format-changed-files-on-save)
+      - [The configuration templates](#the-configuration-templates)
     - [Naming](#naming)
     - [Project structure](#project-structure)
     - [Component](#component)
@@ -66,6 +67,13 @@ Finally, please make sure the VSCode configuration file (JSON) have configuratio
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 ```
+
+#### The configuration templates
+
+Please follow the configuration below for consistency and control
+
+- [ESlint](https://gist.github.com/ipiranhaa/5d4657ed398a9e0ff6e7dac961f0ca2c)
+- [Prettier](https://gist.github.com/ipiranhaa/049c78fb21bcd0e05e067f19f5389493)
 
 ### Naming
 
